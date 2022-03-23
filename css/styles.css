@@ -103,7 +103,7 @@ h3{
 
 
 .btn {
-  
+
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
   background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
@@ -130,6 +130,19 @@ h3{
   text-decoration: none;
 }
 
-.footer-link{
-  color:#40514E;
+a{
+  color:black;
+  font-family: 'Montserrat',sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color:white;
+}
+
+.copyright {
+  color:black;
+  font-size:0.75rem;
+  padding:20px;
 }
