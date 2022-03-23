@@ -1,15 +1,65 @@
-
 body {
- background-color:#6FB2D2;
-}
-hr {
-  border-style:none;
-  border-top-style: dotted;
-  border-color:grey;
-  border-width:5px;
-  width: 10%;
+  margin: 0;
+  text-align: center;
+  background-color: #F4FCD9;
+  font-family: 'Merriweather', serif;
 }
 
-h3 {
-  color:#557B83;
+.top-container {
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+
+h1 {
+font-family: 'Sacramento', cursive;
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.topCloud {
+  position: absolute;
+  top:50px;
+  right:250px;
+  height: 10%;
+  widows:10%;
+
+}
+
+.hill {
+
+  height: 400px;
+  width:400px;
+}
+
+.profilePhoto {
+  position: relative;
+  right:200px;
+  top:50px;
+}
+
+.profileTitle {
+  position: relative;
+  left:50px;
+  bottom:90px;
+
+}
+
+.skillPic {
+  height: 200px;
+  width:200px;
 }
